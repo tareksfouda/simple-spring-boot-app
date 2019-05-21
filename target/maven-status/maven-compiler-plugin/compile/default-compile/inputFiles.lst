@@ -1,0 +1,12 @@
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/config/ResourceServerConfig.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/config/AuthorizationServerConfig.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/service/UserServiceImpl.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/controller/UserController.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/service/CustomUserDetailsService.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/ApplicationStarter.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/config/WebSecurityConfig.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/model/User.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/controller/HelloController.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/repo/UserRepo.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/service/UserService.java
+/home/tarek/eclipse-workspace/final/src/main/java/com/example/review/model/Role.java
